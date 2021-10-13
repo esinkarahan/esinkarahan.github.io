@@ -1,0 +1,22 @@
+main:
+  - title: "Home"  
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Publications"
+    url: /publications/
+  - title: "Research"
+    url: /research/
+  - title: "Resume"
+    url: /resume/
+  - title: "Software"
+    url: /software/
+#  - title: "Portfolio"
+#    url: /portfolio/
+#  - title: "Posts"
+#    url: /year-archive/
+#  - title: "Collections"
+#    url: /collection-archive/
+#  - title: "External Link"
+#    url: https://google.com
+
